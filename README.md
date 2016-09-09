@@ -1,2 +1,1 @@
-# hello-world
-hello-world project
+This is hello-world project for learning GitHub
